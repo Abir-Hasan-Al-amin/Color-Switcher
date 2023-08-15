@@ -34,15 +34,15 @@ div{
     margin: 20px;
     cursor: pointer;
 }
-.c-sliver{
+#c-sliver{
     background-color: silver;
 }
-.c-blue{
+#c-blue{
     background-color: blue;
 }
-.c-white{
+#c-white{
     background-color: white;
 }
-.c-bisque{
+#c-bisque{
    background-color: bisque;
 }
